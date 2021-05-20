@@ -1,26 +1,29 @@
-# О, здарова!
+# Who am I?
 
-Я Ertu.
+My nickname is Ertu or Er2 (frequently Er2).
+Love coding.
 
-Ну, а что ещё говорить...
+# What I know?
 
-## Чё я знаю?
+Programming languages I know:
 
-> Тут не будет никаких пикч, как это у других, считаю это излишеством.
-
-Короче, я знаю:
-
-  - Хорошо:
+  - Good
     - JS
     - C
     - PHP
     - Ruby
     - Lua
 
-  - Немного
+  - Average
     - C++
     - Common Lisp
+    - Vala
+    - Brainfuck
 
-  - Ужасно
+  - Low-level
+    - Language of **ARM** assembler
+
+  - Not advice
     - HTML
     - CSS
+    - XML
