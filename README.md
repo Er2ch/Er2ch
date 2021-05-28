@@ -8,7 +8,7 @@ Love coding.
 
 GitHub: **@Er2ch** (you here, I guess)
 
-Twitter, Telegram: **@Er2Official**
+Twitter (not often), Telegram: **@Er2Official**
 
 Discord: Currently unavailable
 
@@ -28,13 +28,16 @@ Programming languages I know:
   - Average
     - C++
     - Common Lisp
+    - Java
     - Vala
     - Brainfuck
 
   - Low-level
     - Language of **ARM** assembler
+    - Smali (Dalvik VM bytecode)
 
   - Not advice
+    - Kotlin
     - HTML
     - CSS
     - XML
