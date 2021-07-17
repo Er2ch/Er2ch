@@ -10,9 +10,9 @@ GitHub: **@Er2ch** (you here, I guess)
 
 Twitter (not often), Telegram: **@Er2Official**
 
-Discord: Currently unavailable
+Discord: **er2#9142**
 
-XMPP, Email: er2@dismail.de
+XMPP, Email: **er2@dismail.de**
 
 # What I know?
 
@@ -37,6 +37,7 @@ Programming languages I know:
     - Smali (Dalvik VM bytecode)
 
   - Not advice
+    - Rust
     - Kotlin
     - HTML
     - CSS
