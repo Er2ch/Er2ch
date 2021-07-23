@@ -37,6 +37,7 @@ Programming languages I know:
     - Smali (Dalvik VM bytecode)
 
   - Not advice
+    - TypeScript
     - Rust
     - Kotlin
     - HTML
