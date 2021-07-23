@@ -10,7 +10,7 @@ GitHub: **@Er2ch** (you here, I guess)
 
 Twitter (not often), Telegram: **@Er2Official**
 
-Discord: **er2#9142**
+Discord: **er2#9255** (fucking dis, tg is better)
 
 XMPP, Email: **er2@dismail.de**
 
