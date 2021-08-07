@@ -2,15 +2,17 @@
 
 I'm developer from Russia.
 My nickname is Ertu or Er2 (frequently Er2).
-Love coding. Emacser.
+Emacs user.
 
 * Contact
 
-GitHub: *@Er2ch* (you here, I guess)
+GitHub: *@Er2ch* /(you here, I guess)/
 
 Twitter (not often), Telegram: *@Er2Official*
 
-Discord: *er2#9255* (/fucking dis, tg is better/)
+Discord: tired with phone verification, so use *other methods*
+
+# Discord: *er2#9255*
 
 XMPP, Email: *er2@dismail.de*
 
@@ -19,24 +21,28 @@ XMPP, Email: *er2@dismail.de*
 Programming languages I know:
 
 + Good
-  + JS
-  + C
-  + PHP
-  + Ruby
   + Lua
+  + C
+  + JS
+  + Ruby
+  + PHP
 
-- Average
+
+- Not so good
   - C++
   - Common Lisp
   - Java
   - Vala
   - Brainfuck
 
-+ Low-level
-  + Language of **ARM** assembler
+
++ Low-level (assembly etc.)
+  + Language of *ARM 32bit* assembler
   + Smali (Dalvik VM bytecode)
 
-- Not advice
+
+- Not advice (not recommends)
+  - Python
   - TypeScript
   - Rust
   - Kotlin
