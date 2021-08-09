@@ -4,6 +4,9 @@ I'm developer from Russia.
 My nickname is Ertu or Er2 (frequently Er2).
 Emacs user.
 
+If you searching deleted repos,
+some of these is transferred to [[https://github.com/Er2pkg][@Er2pkg]]
+
 * Contact me
 
 XMPP, Email: *er2@dismail.de*
