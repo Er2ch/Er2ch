@@ -1,11 +1,14 @@
+/lol github says what readme.org is README.md/
+
+I'm smoothly migrates to [[https://gitdab.com/er2][Gitdab]].
+
 * Who am I?
 
-I'm developer from Russia.
+I'm Russian programmer, Emacs user.
 My nickname is Ertu or Er2 (frequently Er2).
-Emacs user.
 
-If you searching deleted repos,
-some of these is transferred to [[https://github.com/Er2pkg][@Er2pkg]]
+If you searching for deleted repos,
+some of these is [[https://github.com/Er2pkg][here]].
 
 * Contact me
 
@@ -13,42 +16,8 @@ XMPP, Email: *er2@dismail.de*
 
 GitHub: *@Er2ch* /(you here, I guess)/
 
-Telegram, Twitter (not often): *@Er2Official*
+Gitdab: *@er2*
 
-Discord: tired with phone verification, so use *other methods*
+Telegram, /Twitter/ (not often): *@Er2Official*
 
-# Discord: *er2#9255*
-
-* What I know?
-
-Programming languages I know:
-
-+ Good
-  + Lua
-  + C
-  + JS
-  + Ruby
-  + PHP
-
-
-- Not so good
-  - C++
-  - Common Lisp
-  - Java
-  - Vala
-  - Brainfuck
-
-
-+ Low-level (assembly etc.)
-  + Language of *ARM 32bit* assembler
-  + Smali (Dalvik VM bytecode)
-
-
-- Not advice (not recommends)
-  - Python
-  - TypeScript
-  - Rust
-  - Kotlin
-  - HTML
-  - CSS
-  - XML
+Discord: *er2#9255*
